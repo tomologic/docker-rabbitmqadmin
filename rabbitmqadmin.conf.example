@@ -1,0 +1,6 @@
+[default]
+hostname = hostname.example.com
+port = 15672
+username = user
+password = password
+ssl = True
